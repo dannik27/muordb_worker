@@ -1,0 +1,18 @@
+INSERT INTO public.rtab1 (k_v, val) VALUES (1, 'Сущность');
+INSERT INTO public.rtab1 (k_v, val) VALUES (2, 'Допустимая характеристика');
+INSERT INTO public.rtab1 (k_v, val) VALUES (3, 'Наименование');
+INSERT INTO public.rtab1 (k_v, val) VALUES (4, 'Значение');
+INSERT INTO public.rtab1 (k_v, val) VALUES (5, 'Параметр служебный');
+INSERT INTO public.rtab1 (k_v, val) VALUES (6, 'Параметр пользователя');
+INSERT INTO public.rtab1 (k_v, val) VALUES (7, 'Человек');
+INSERT INTO public.rtab1 (k_v, val) VALUES (8, 'Фамилия');
+INSERT INTO public.rtab1 (k_v, val) VALUES (9, 'Имя');
+INSERT INTO public.rtab1 (k_v, val) VALUES (10, 'Отчество');
+INSERT INTO public.rtab1 (k_v, val) VALUES (11, 'Никифоровых');
+INSERT INTO public.rtab1 (k_v, val) VALUES (12, 'Данил');
+INSERT INTO public.rtab1 (k_v, val) VALUES (13, 'Викторович');
+INSERT INTO public.rtab1 (k_v, val) VALUES (14, 'Иванов');
+INSERT INTO public.rtab1 (k_v, val) VALUES (15, 'Иван');
+INSERT INTO public.rtab1 (k_v, val) VALUES (16, 'Иванович');
+INSERT INTO public.rtab1 (k_v, val) VALUES (17, 'Дата рождения');
+INSERT INTO public.rtab1 (k_v, val) VALUES (18, 'Заголовок');

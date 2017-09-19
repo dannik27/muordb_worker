@@ -1,0 +1,1 @@
+INSERT INTO public.rtab2 (k_v, val) VALUES (1, '1995-04-27 23:26:54.235000');
