@@ -1,0 +1,1 @@
+INSERT into rtab1(k_v, val) VALUES (?, ?)
