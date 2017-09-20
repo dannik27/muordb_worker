@@ -11,6 +11,11 @@ public class Attribute {
     private LocalDate dateFrom, dateTo;
     private int k_egr_parent;
 
+    private int valInt;
+    private String valString;
+    private LocalDate valDate;
+    private float valFloat;
+
 
 
 }

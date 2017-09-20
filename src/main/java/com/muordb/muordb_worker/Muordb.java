@@ -33,8 +33,6 @@ public class Muordb {
         return new SelectQuery();
     }
 
-    public int essencekeyByName(String essenceName){
 
-    }
 
 }
